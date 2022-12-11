@@ -18,6 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 <details>
 <summary><h3>why is this h3 on the next line?</h3></summary>
+
 i think it has something to do with the fact h3 is a block element
 </details>
 
